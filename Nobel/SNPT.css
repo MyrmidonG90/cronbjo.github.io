@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(BokBakgrund.jpg)
+}
+	
+
+#GrandBox{
+	margin:auto;
+	margin-left:20%;
+	background-color:#e6ccb3;
+	height:100%;
+	width:60%;
+	
+	padding:1%;
+}
+
+header{
+	text-align:center;
+	font-size:48px;
+	font-family:"Comic Sans MS", cursive;
+}
+
+nav{
+	background-color:#d9b18c;
+	width:100%;
+	height:100px;
+	margin-bottom:10px;
+}
+
+ul{
+	list-style:none;
+}
+
+li{
+	float:left;
+	padding:30px;
+	padding-left:1%;
+	font-size:24px;
+}
+
+article{
+	clear:left;
+	font-size:14px;
+	background-color:#fafafa;
+	width:70%;
+	margin:auto;
+	padding:10px;
+}
+
+aside{
+	margin:auto;
+	width:200px;
+}
